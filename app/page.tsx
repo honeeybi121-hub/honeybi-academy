@@ -28,9 +28,9 @@ export default function Home(){
     </div>
     <div className="mock"><div className="mockInner">
       <span className="tiny">MEU PAINEL</span><h2>Continue de onde parou</h2>
-      <div className="courseBox"><div style={{display:"flex",justifyContent:"space-between",gap:12}}><div><b>Formação Executiva</b><div className="tiny" style={{marginTop:5}}>Módulo 15 · Liderança</div></div><b style={{color:"var(--purple)"}}>82%</b></div>
-      <div className="progress"><span style={{width:"82%"}}/></div><Link className="btn primary" style={{width:"100%",marginTop:16}} href="/dashboard">Continuar aula →</Link></div>
-      <div className="stats"><div className="stat"><span className="tiny">XP</span><b>1.450</b></div><div className="stat"><span className="tiny">Sequência</span><b>17 dias</b></div><div className="stat"><span className="tiny">Horas</span><b>83h</b></div><div className="stat"><span className="tiny">Badges</span><b>18</b></div></div>
+      <div className="courseBox"><div style={{display:"flex",justifyContent:"space-between",gap:12}}><div><b>Formação Executiva</b><div className="tiny" style={{marginTop:5}}>Sua formação começa aqui</div></div><b style={{color:"var(--purple)"}}>0%</b></div>
+      <div className="progress"><span style={{width:"0%"}}/></div><Link className="btn primary" style={{width:"100%",marginTop:16}} href="/login">Entrar para começar →</Link></div>
+      <div className="stats"><div className="stat"><span className="tiny">XP</span><b>0</b></div><div className="stat"><span className="tiny">Sequência</span><b>0 dias</b></div><div className="stat"><span className="tiny">Horas</span><b>0h</b></div><div className="stat"><span className="tiny">Badges</span><b>0</b></div></div>
     </div></div>
    </div></section>
 
